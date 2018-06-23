@@ -1,0 +1,99 @@
+body{
+    background-color: #e1fbae;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+}
+
+h1{
+    text-align: center;
+    color: 	#55e0d9;
+}
+
+input[type="text"]{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #666;
+    width: 100%;
+    margin-top: 5px;
+    line-height: 1.5px
+}
+
+label{
+    color: 	#55e0d9;
+}
+
+footer{
+    text-align: center;
+    color: 	#55e0d9;
+}
+
+hr{
+    background: #00bfd1;
+    border-color: #00bfd1;
+    margin: 30px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.mess-form{
+    width: 100%;
+    max-width: 330px;
+    margin: auto;
+    padding: 10px;
+}
+
+.form-group{
+    padding: 10px;
+}
+
+.btn-submit{
+    background: #0796ae;
+    border: 1px solid #0796ae;
+    padding: 10px;
+    color: #e1fbae;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.messages li{
+    padding: 10px;
+    margin: 5px 0;
+    background: #a7e790;
+    list-style: none;
+    color: #0796ae;
+    border: 2px solid #00bfd1;
+}
+
+.alert{
+    background: #FF4040;
+    color: #fff;
+    padding: 15px;
+    margin: 25px;
+    width: 100%;
+    max-width: 330px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.alert-success{
+    background: #a7e790;
+    color: #0796ae;
+    padding: 15px;
+    margin: 25px;
+    width: 100%;
+    max-width: 330px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.delete{
+   color: #FF4040;
+   float: right;
+   text-decoration: none; 
+}
